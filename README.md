@@ -3,8 +3,6 @@ This repository consitutes an archive for all the DevOps tools, concepts, strate
 
 The aim behind this project is to offer the community with enough information to raise awareness and spread knowledge in the aforementioned areas.
 
-This project is open source, and is the result of a joint effort between the DevOps unit members at [CME](https://gotocme.com).
-
 # Table Of Contents
 
 1. [Kubernetes](./Kubernetes)
